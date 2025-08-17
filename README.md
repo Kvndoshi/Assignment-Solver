@@ -11,9 +11,21 @@ Today, you don’t even need a paid GPT API: you can connect this to any open-so
 
 ### Screenshots
 
-![Screenshot](<Screenshot (8).png>)
-![Screenshot](<Screenshot (9).png>)
-![Screenshot](<Screenshot 2025-08-16 215406.png>)
 ![Screenshot](<Screenshot 2025-08-16 221004.png>)
+
+Gives you the option to take text via the screen snipper or enter it manually.
+
+![Screenshot](<Screenshot (8).png>)
+
+This is the screen-snipping interface.
+
+![Screenshot](<Screenshot (9).png>)
+
+You can tweak parameters (originally built for Davinci‑002). There’s also a multiple-questions mode: if the assignment has multiple questions in one block of text, it splits them and feeds them to the AI one by one, showing answers on the right side of the page.
+
+![Screenshot](<Screenshot 2025-08-16 215406.png>)
+
+This is a sample assignment I used to get.
+
 
 
